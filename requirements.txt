@@ -1,0 +1,58 @@
+# AI Study Companion Pro - Requirements
+# Production-ready dependencies
+
+# === CORE REQUIREMENTS (Minimal Install) ===
+# These are REQUIRED for the app to run
+streamlit
+pandas
+
+# === FULL FEATURES (Recommended) ===
+# Install these for all features
+
+# AI/ML Libraries
+transformers
+torch
+nltk
+scikit-learn
+
+# Document Processing
+python-pptx
+pdfplumber
+PyPDF2
+python-docx
+
+# Visualization & Data
+plotly
+openpyxl
+
+# === OPTIONAL (Nice to Have) ===
+# These improve functionality but aren't required
+
+# OCR for scanned PDFs (optional)
+# pytesseract==0.3.10
+
+# Database (if persistent storage needed)
+# tinydb==4.8.0
+
+# === NOTES ===
+# Minimal install (works 90% of features):
+#   pip install streamlit pandas
+#
+# Full install (all features):
+#   pip install -r requirements.txt
+#   python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
+#
+# The app works with just streamlit + pandas!
+# Other libraries enable additional features:
+#   - transformers: Abstractive summarization
+#   - python-pptx: PowerPoint generation  
+#   - pdfplumber/PyPDF2: PDF text extraction
+#   - python-docx: DOCX text extraction
+#   - nltk: Better text processing
+#   - scikit-learn: TF-IDF topic extraction
+#
+# Without these libraries, the app uses:
+#   - Extractive summarization (deterministic)
+#   - Text-based slide export
+#   - TXT file uploads only
+#   - Frequency-based topic extraction
