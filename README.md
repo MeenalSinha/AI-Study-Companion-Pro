@@ -510,31 +510,6 @@ git push origin feature/amazing-feature
 
 ---
 
-## 🛣️ Roadmap
-
-### Version 1.1 (Q1 2025)
-- [ ] Voice-based study commands
-- [ ] Support for handwritten notes (OCR)
-- [ ] Mobile app (Progressive Web App)
-- [ ] Cloud sync (optional)
-- [ ] Collaboration features
-
-### Version 1.2 (Q2 2025)
-- [ ] Chrome extension for web article summarization
-- [ ] Flashcard generation
-- [ ] Mind map creator
-- [ ] Video lecture summarization
-- [ ] Multi-language support
-
-### Version 2.0 (Q3 2025)
-- [ ] Study group features
-- [ ] Peer review system
-- [ ] Gamification elements
-- [ ] Advanced analytics dashboard
-- [ ] AI tutor chatbot
-
----
-
 ## 📊 Impact & Statistics
 
 - ⏱️ **Time Saved**: 10+ hours per week
@@ -598,15 +573,7 @@ See the [LICENSE](LICENSE) file for full details.
 ## 📞 Support & Contact
 
 ### Getting Help
-- 📖 [Documentation](https://github.com/yourusername/ai-study-companion/wiki)
-- 🐛 [Issue Tracker](https://github.com/yourusername/ai-study-companion/issues)
-- 💬 [Discussions](https://github.com/yourusername/ai-study-companion/discussions)
-- 📧 Email: support@innovatorsx.dev
-
-### Social Media
-- 🐦 Twitter: [@InnovatorsX](https://twitter.com/InnovatorsX)
-- 💼 LinkedIn: [InnovatorsX](https://linkedin.com/company/innovatorsx)
-- 🌐 Website: [innovatorsx.dev](https://innovatorsx.dev)
+- 📧 Email: meenal.sinha09@gmail.com
 
 ---
 
@@ -634,15 +601,9 @@ The AI-generated summaries, quizzes, and study materials are meant to **suppleme
 
 <div align="center">
 
-**Made with ❤️ by InnovatorsX**
-
 *Learn Smarter, Not Harder* 🚀
 
 ---
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-study-companion?style=social)](https://github.com/yourusername/ai-study-companion)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-study-companion?style=social)](https://github.com/yourusername/ai-study-companion)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/ai-study-companion?style=social)](https://github.com/yourusername/ai-study-companion)
 
 [⬆ Back to Top](#-ai-study-companion-pro)
 
